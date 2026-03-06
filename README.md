@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Pangolinfo Scraper Banner](https://www.pangolinfo.com/assets/img/logo.png)
+![Pangolinfo Scraper Banner](assets/banner.png)
 
 **Give your AI Agent real-time vision.**
 Scrape Amazon, Walmart, and Google Search results as clean JSON.
